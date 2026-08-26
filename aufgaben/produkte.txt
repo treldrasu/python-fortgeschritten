@@ -1,0 +1,8 @@
+Apfel:0.50
+Banane:0.30
+Brot:2.50
+Milch:1.20
+Kaffee:4.99
+Schokolade:1.99
+Wasser:0.80
+Kaese:3.49
